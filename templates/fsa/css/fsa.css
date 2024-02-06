@@ -1,0 +1,204 @@
+@font-face {
+  font-family: 'finatic';
+  src:
+    url('../fonts/finatic.ttf') format('truetype'),
+    url('../fonts/finatic.woff') format('woff'),
+    url('../fonts/finatic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fn-"], [class*=" fn-"] {
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fn-address:before {
+  content: "\e933";
+}
+.fn-map-marker:before {
+  content: "\e932";
+}
+.fn-phone-call:before {
+  content: "\e934";
+}
+.fn-check:before {
+  content: "\e935";
+}
+.fn-back:before {
+  content: "\e936";
+}
+.fn-calendar:before {
+  content: "\e937";
+}
+.fn-man-user:before {
+  content: "\e938";
+}
+.fn-location:before {
+  content: "\e93c";
+}
+.fn-translate:before {
+  content: "\e93d";
+}
+.fn-email:before {
+  content: "\e93e";
+}
+.fn-next:before {
+  content: "\e93f";
+}
+.fn-network:before {
+  content: "\e918";
+}
+.fn-salary:before {
+  content: "\e900";
+}
+.fn-career:before {
+  content: "\e901";
+}
+.fn-gadget:before {
+  content: "\e902";
+}
+.fn-purpose:before {
+  content: "\e903";
+}
+.fn-certificate:before {
+  content: "\e904";
+}
+.fn-save-money:before {
+  content: "\e905";
+}
+.fn-statistics:before {
+  content: "\e906";
+}
+.fn-graph:before {
+  content: "\e907";
+}
+.fn-analysis:before {
+  content: "\e908";
+}
+.fn-bank:before {
+  content: "\e909";
+}
+.fn-profits:before {
+  content: "\e90a";
+}
+.fn-research:before {
+  content: "\e90b";
+}
+.fn-laptop:before {
+  content: "\e90c";
+}
+.fn-analytics:before {
+  content: "\e90d";
+}
+.fn-debit-card:before {
+  content: "\e90e";
+}
+.fn-presentation:before {
+  content: "\e90f";
+}
+.fn-bars:before {
+  content: "\e910";
+}
+.fn-diagram:before {
+  content: "\e911";
+}
+.fn-insurance:before {
+  content: "\e912";
+}
+.fn-diploma:before {
+  content: "\e913";
+}
+.fn-contract:before {
+  content: "\e914";
+}
+.fn-team:before {
+  content: "\e915";
+}
+.fn-collaboration:before {
+  content: "\e916";
+}
+.fn-coffee:before {
+  content: "\e917";
+}
+.fn-combined:before {
+  content: "\e919";
+}
+.fn-trophy:before {
+  content: "\e91a";
+}
+.fn-capital:before {
+  content: "\e91b";
+}
+.fn-protection:before {
+  content: "\e91c";
+}
+.fn-loan:before {
+  content: "\e91d";
+}
+.fn-d-model:before {
+  content: "\e91e";
+}
+.fn-money:before {
+  content: "\e91f";
+}
+.fn-list:before {
+  content: "\e920";
+}
+.fn-investment:before {
+  content: "\e921";
+}
+.fn-calculate:before {
+  content: "\e922";
+}
+.fn-rocket:before {
+  content: "\e923";
+}
+.fn-tax:before {
+  content: "\e924";
+}
+.fn-wallet:before {
+  content: "\e925";
+}
+.fn-savings:before {
+  content: "\e926";
+}
+.fn-strategy:before {
+  content: "\e927";
+}
+.fn-mind:before {
+  content: "\e928";
+}
+.fn-elder:before {
+  content: "\e929";
+}
+.fn-package:before {
+  content: "\e92a";
+}
+.fn-website:before {
+  content: "\e92b";
+}
+.fn-museum:before {
+  content: "\e92c";
+}
+.fn-financial:before {
+  content: "\e92d";
+}
+.fn-support:before {
+  content: "\e92e";
+}
+.fn-achievement:before {
+  content: "\e92f";
+}
+.fn-success:before {
+  content: "\e930";
+}
+.fn-web-search:before {
+  content: "\e931";
+}

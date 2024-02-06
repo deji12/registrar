@@ -1,0 +1,57 @@
+.bw-social-share .panel.panel-warning {
+    margin-top: 20px;
+    background-color: #fcf8e3;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    border-color: #faebcc;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+.bw-social-share .panel-warning > .panel-heading {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b;
+}
+.bw-social-share .panel-heading {
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 10px 15px;
+}
+.bw-social-share .panel-body {
+    padding: 20px;
+}
+.bw-social-share .panel-body p b {
+    font-weight: bold;
+}
+
+.bw-social-share .rrssb-buttons.bw-social-share-buttons.bw-social-share-buttons-large li {
+    margin-bottom: 5px;
+}
+@media (max-width: 460px) {
+    .bw-social-share {
+
+    }
+    .bw-social-share .rrssb-buttons {
+         min-height: 45px;
+     }
+    .bw-social-share .rrssb-buttons li {
+        height: 45px;
+        padding-bottom: 3px;
+        margin-bottom: 3px;
+    }
+    .bw-social-share .rrssb-buttons li .rrssb-icon a {
+        padding-bottom: 3px;
+    }
+    .bw-social-share .rrssb-buttons .rrssb-icon svg {
+         margin-top: 3px;
+    }
+}
+.rrssb-buttons li.rrssb-telegram a{background-color:#38AAE6}
+.rrssb-buttons li.rrssb-telegram a:hover{background-color:#2982AE}
+.rrssb-buttons.tiny-format li.rrssb-telegram a .rrssb-icon svg path{fill:#38AAE6}
+.rrssb-buttons.tiny-format li.rrssb-telegram a .rrssb-icon:hover .rrssb-icon svg path{fill:#2982AE}

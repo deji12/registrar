@@ -1,0 +1,16 @@
+.fsa-directory {
+
+}
+
+.fsa-directory .card {
+	border: none;
+}
+.fsa-directory .card-header {
+	padding: 0;
+	background: none;
+	border: none;
+}
+.fsa-directory .card-body {
+    border: 1px solid #DDD;
+    border-radius: 5px;
+}

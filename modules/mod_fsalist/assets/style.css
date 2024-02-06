@@ -1,0 +1,52 @@
+/**
+ * @package    mod_fsalist
+ * @version    1.0.0
+ *
+ * @copyright  Copyright (C) 2015 - 2021 JoomlaGeek. All Rights Reserved.
+ * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ * @author     JoomlaGeek <admin@joomlageek.com>
+ * @link       https://www.joomlageek.com
+ */
+
+.gl-wrapper {
+
+}
+
+.gl-wrapper .input-group input {
+	margin: 0;
+}
+
+
+#geek-list-loading {
+	background: #F37C20;
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	display: none;
+	z-index: 10001;
+}
+
+#geek-list-loading > .inner {
+	padding: 10px 30px;
+	color: #FFF;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+/*paging*/
+.gl-container div.pagination {
+	text-align: center;
+	margin: 0;
+}
+
+.gl-container ul.pagination {
+}
+
+.gl-container ul.pagination > li > a {
+}
+
+.gl-container ul.pagination > li.disabled > a {
+}
+
+.gl-container ul.pagination > li.active > a {
+}
